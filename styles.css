@@ -3,6 +3,11 @@ body{
 	background-color:rgb(204, 204, 204);
 }
 
+a{
+	text-decoration-line:none;
+	color:black;
+}
+
 ul{
 	list-style-type:none;
 }
