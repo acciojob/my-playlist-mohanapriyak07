@@ -41,14 +41,14 @@ video{
 	padding:2px;
 	border-radius:3px;
 }
-.player_one{
+.player_one,.player_two {
 	background-color: rgb(255, 255, 255);
 }
 
 audio{
 	width:95%;
 	align-items:center;
-	background-color: rgb(255, 255, 255);
+	
 	margin:0px 20px;
 	padding:2px;
 	border-radius:3px;
